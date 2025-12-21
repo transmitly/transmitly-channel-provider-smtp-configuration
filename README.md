@@ -1,6 +1,6 @@
 # Transmitly.ChannelProvider.Smtp.Configuration
 
-A shared configuration for the Transmitly Smtp channel provider.
+A shared configuration for the Transmitly™ Smtp channel provider.
 
 ### Getting started
 
